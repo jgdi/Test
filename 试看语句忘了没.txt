@@ -1,2 +1,0 @@
-shishi
-git push -u origin master
